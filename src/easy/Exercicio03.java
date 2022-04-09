@@ -8,5 +8,5 @@ public class Exercicio03 {
         return "O valor do primeiro numero é :" + numero2 +"\n"
                 +"O valor do segundo numero é :" + numero1;
     }
-    
+
 }
